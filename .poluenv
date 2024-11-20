@@ -1,0 +1,15 @@
+export ENV_NAME=cool
+export POSTGRES_HOST=localhost11111
+export POSTGRES_PORT=5432
+export POSTGRES_USER=hello
+export POSTGRES_PASSWORD=world
+export POSTGRES_DATABASE_NAME=hey
+export POSTGRES_EXTENSIONS='["one", "two"]'
+export POSTGRES_KINDA='{"one": ["two"], "three": "four", "five": true, "six": {"st": 32}}'
+export TRY_X=15
+export POSTGRES_TRY_BOOL=false
+export NEW_HOST=wooooow
+export HIGHCASE=yeah
+
+
+
